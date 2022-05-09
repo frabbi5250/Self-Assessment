@@ -31,5 +31,5 @@
     life problems. What should be focused more on is how to learn. This bootcamp taught me how to learn and solve problems. 
     For sure the learning method will be different for other data science bootcamps and my goal is to acquire those learning
     methods in order to understand, and in  order to execute the knowledge being taken. 
-    ![image](https://user-images.githubusercontent.com/94254736/167329968-81792ff2-0cf6-42fb-8197-18bd461c85d4.png)
 
+![image](https://user-images.githubusercontent.com/94254736/167330058-60e39cd1-d14c-4c1f-9b39-d6bca9382c91.png)
