@@ -26,7 +26,16 @@
     Errors were actually the stepping points to having myself develop further skills. Each error opens a whole different
     door of knowledge. Therefore, my future plans are not to only stop at this bootcamp. I plan to participate 
     further in other bootcamps and also use other means of resource in order to learn and thrive. Different 
-    instructors may have different ways of coding and getting the outcome they are looking for. 
+    instructors may have different ways of coding and getting the outcome they are looking for. With that saying, it was 
+    definitely unique and very motivating to be working with a team on working upon a real life situation that would require
+    the skills we just developed. Our final project  was upon creating a machine learning model that would enable better 
+    usage of social media awareness, in this case Twitter. Twitter is one of the largest social platforms that is considered
+    to have over 500 million tweets per day. Majority of the tweets that go viral do not serve any purpose whatsoever in
+    depicting our interested awareness. Rather than having to waste time and energy going through tons of useless tweets, 
+    why not create a machine learning model that would solve this problem? This project which was assigned for a month would
+    rather take multiple months to accomplish. My team and I learned various methods on how to execute this idea by seeking
+    help from TAs and instructors as well as from other online sources. 
+
               In conclusion, this bootcamp definitely paved the pathway for myself to take upon further challenges on solving real 
     life problems. What should be focused more on is how to learn. This bootcamp taught me how to learn and solve problems. 
     For sure the learning method will be different for other data science bootcamps and my goal is to acquire those learning
